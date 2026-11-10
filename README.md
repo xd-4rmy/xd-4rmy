@@ -46,14 +46,13 @@ I prefer understanding systems from the inside out—whether that means running 
 
 - **[JavidNamanBot](https://t.me/xProtocolChannel/947)** — A Telegram remembrance bot that shares respectful posts honoring those who lost their lives for their homeland, helping preserve their names and stories in collective memory.
 - **[Lain — Minecraft AI Companion](https://t.me/xProtocolChannel/948)** — A local AI companion for Minecraft Java, built with Node.js, Mineflayer, and Pathfinder. Features Persian/English AI chat, player-following and movement commands, autonomous companion behavior, and a local web dashboard powered by LM Studio.
-- **[Farahmand School Website](https://github.com/xd-4rmy)** — A production-ready, fully Persian (RTL) school platform built with Next.js 14, TypeScript, Prisma, and PostgreSQL. Includes a secure admin dashboard for non-technical staff to manage news, events, gallery, SEO, and site settings.
-- **Lain (Agent)** — A fully local, system-access AI agent with deep OS integration (inspired by Claude Code & Codex). Runs entirely on-device with no cloud dependency.
-- **Bocchi AI Bot** — An uncensored Telegram AI for daily use, featuring image understanding and generation.
-- **Nijika AI OSINT Bot** — An all-in-one OSINT aggregation tool that automates the process with AI and conversational querying.
-- **Meowie Bot Automation** — A Python/Telethon automation tool that plays the Meowie Telegram game, handling point transfers, fishing, and street cat rescues.
-- **MilkyChanAI** — A persistent, memory-equipped AI companion/partner.
-- **Seika Monitor Bot** — Real-time Telegram infrastructure monitoring for profile changes, stories, and linked channels.
-- **Ryo Database Bot** — Direct database querying and search via Telegram without downloading files.
+- **Lain (Local AI Agent)** — A fully local, system-access AI agent with deep OS integration (inspired by Claude Code & Codex). Runs entirely on-device with no cloud dependency.
+- **[Bocchi AI Bot](https://t.me/xProtocolChannel/801)** — An AI-powered Telegram bot for daily use, featuring image understanding and generation.
+- **[Nijika AI OSINT Bot](https://t.me/xProtocolChannel/890)** — An all-in-one OSINT aggregation tool that automates information gathering with AI and conversational querying.
+- **[Meowie Bot Automation](https://t.me/xProtocolChannel)** — A Python/Telethon automation tool that plays the Meowie Telegram game, handling point transfers, fishing, and street cat rescues.
+- **[MilkyChanAI](https://t.me/xProtocolChannel/889)** — A persistent, memory-equipped AI companion.
+- **[Seika Monitor Bot](https://t.me/xProtocolChannel/925)** — Real-time Telegram infrastructure monitoring for profile changes, stories, and linked channels.
+- **[Ryo Database Bot](https://t.me/xProtocolChannel/891)** — Direct database querying and search via Telegram without downloading files.
 
 ## Toolkit
 
@@ -64,7 +63,7 @@ I prefer understanding systems from the inside out—whether that means running 
 ## Current Focus
 
 - Pushing the boundaries of local, private AI agents and tool use.
-- Developing high-performance, uncensored AI bots for Telegram.
+- Developing high-performance AI bots for Telegram.
 - Strengthening full-stack engineering (Next.js, Prisma, scalable backends).
 - Exploring the intersection of software and hardware (Robotics/ESP32).
 
