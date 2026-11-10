@@ -44,6 +44,8 @@ I prefer understanding systems from the inside out—whether that means running 
 
 ## Featured Projects
 
+- **[JavidNamanBot](https://t.me/xProtocolChannel/947)** — A Telegram remembrance bot that shares respectful posts honoring those who lost their lives for their homeland, helping preserve their names and stories in collective memory.
+- **[Lain — Minecraft AI Companion](https://t.me/xProtocolChannel/948)** — A local AI companion for Minecraft Java, built with Node.js, Mineflayer, and Pathfinder. Features Persian/English AI chat, player-following and movement commands, autonomous companion behavior, and a local web dashboard powered by LM Studio.
 - **[Farahmand School Website](https://github.com/xd-4rmy)** — A production-ready, fully Persian (RTL) school platform built with Next.js 14, TypeScript, Prisma, and PostgreSQL. Includes a secure admin dashboard for non-technical staff to manage news, events, gallery, SEO, and site settings.
 - **Lain (Agent)** — A fully local, system-access AI agent with deep OS integration (inspired by Claude Code & Codex). Runs entirely on-device with no cloud dependency.
 - **Bocchi AI Bot** — An uncensored Telegram AI for daily use, featuring image understanding and generation.
