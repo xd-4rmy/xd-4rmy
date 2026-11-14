@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090D,45:32105E,100:7A3EF0&height=190&section=header&text=xD-4RMY&fontSize=56&fontColor=EDE7FF&fontAlignY=38&desc=Developer%20%7C%20Python%20%7C%20Automation%20%7C%20AI%20Systems&descAlignY=60&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090D,45:32105E,100:7A3EF0&height=190&section=header&text=xD-4RMY&fontSize=56&fontColor=EDE7FF&fontAlignY=38&desc=Software%20Developer%20%7C%20Automation%20%7C%20AI%20Systems&descAlignY=60&descSize=16" width="100%" />
 
 ### Building useful things, one system at a time.
 
@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,linux,git,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp,bash,linux,git,vscode&theme=dark" />
 
 </div>
 
@@ -18,49 +18,53 @@
 
 ## About
 
-I’m an independent developer who enjoys turning ideas into practical software. Most of my hands-on work is with **Python** and **JavaScript**, ranging from Telegram bots and automation tools to web interfaces and AI-assisted applications.
+I’m an independent developer who enjoys turning ideas into practical software. My main hands-on experience is with **Python** and **JavaScript**, with additional work across web technologies, databases, scripting, and hardware-related projects.
 
-I’m especially interested in local AI, agent-based workflows, backend logic, and building tools that connect different services. I value readable code, understanding how systems work, and learning new technologies through real projects.
+I build Telegram bots, automation tools, web applications, and AI-assisted systems. I’m particularly interested in local AI, agent-based workflows, backend logic, and connecting software with external services. I value understanding how systems work, writing maintainable code, and learning through practical projects.
 
-## Tech Stack
+## Technologies
 
 | Category | Technologies |
 | --- | --- |
-| **Languages** | Python, JavaScript, HTML, CSS |
-| **Runtime & APIs** | Node.js, Telegram Bot API, Telethon |
-| **Minecraft** | Mineflayer, Pathfinder |
+| **Languages & Web** | Python, JavaScript, TypeScript, HTML, CSS |
+| **Additional Languages** | SQL, Bash, C / C++ (including Arduino) |
+| **Web & Backend** | Node.js, Next.js, Prisma, PostgreSQL |
+| **Bots & Integrations** | Telegram Bot API, Telethon |
 | **AI & Automation** | Local LLMs, LM Studio, AI integrations, automation scripts |
-| **Tools & Environment** | Git, GitHub, Linux, VS Code |
+| **Minecraft** | Mineflayer, Pathfinder, server and plugin configuration |
+| **Tools & Environment** | Git, GitHub, Linux, VS Code, ESP32 |
 
-<sub>These are technologies I've used in projects or practical work; I'm continuously expanding this toolkit.</sub>
+<sub>Listed technologies reflect a mix of hands-on project work and practical exposure; they do not imply equal proficiency in every tool or language.</sub>
 
 ## Featured Projects
 
 | Project | Description |
 | --- | --- |
-| **[Lain — Minecraft AI Companion](https://t.me/xProtocolChannel/948)** | A Minecraft Java companion built with Node.js and Mineflayer, with AI chat, movement and follow behaviors, and a local dashboard connected to LM Studio. |
-| **[Lain — Local AI Agent](https://github.com/xd-4rmy)** | An ongoing local-agent project focused on connecting AI models with useful system tools and workflows. |
-| **[JavidNamanBot](https://t.me/xProtocolChannel/947)** | A Telegram bot built to share remembrance posts and preserve personal stories. |
+| **[Lain — Minecraft AI Companion](https://t.me/xProtocolChannel/948)** | A Minecraft Java companion built with Node.js, Mineflayer, and Pathfinder. Includes AI chat, player-following and movement behaviors, and a local dashboard connected to LM Studio. |
+| **Lain — Local AI Agent** | A local-first AI agent project focused on connecting language models with system tools and practical workflows. |
+| **[JavidNamanBot](https://t.me/xProtocolChannel/947)** | A Telegram bot that shares remembrance posts and helps preserve personal stories. |
 | **[Bocchi AI Bot](https://t.me/xProtocolChannel/801)** | An AI-powered Telegram bot with image understanding and generation features. |
 | **[Nijika AI OSINT Bot](https://t.me/xProtocolChannel/890)** | A Telegram-based information-gathering tool with AI-assisted querying. |
-| **[Meowie Bot Automation](https://t.me/xProtocolChannel)** | A Python/Telethon automation project for interacting with the Meowie Telegram game. |
+| **[Meowie Bot Automation](https://t.me/xProtocolChannel)** | A Python and Telethon automation project for interacting with the Meowie Telegram game. |
 | **[MilkyChanAI](https://t.me/xProtocolChannel/889)** | A conversational AI companion with persistent memory. |
-| **[Seika Monitor Bot](https://t.me/xProtocolChannel/925)** | A Telegram monitoring bot for profile, story, and linked-channel changes. |
+| **[Seika Monitor Bot](https://t.me/xProtocolChannel/925)** | A Telegram monitoring bot for profile changes, stories, and linked channels. |
 | **[Ryo Database Bot](https://t.me/xProtocolChannel/891)** | A Telegram interface for searching and querying database records. |
 
-## What I'm Working On
+## Practical Experience
 
-- Developing AI agents that can use tools and work with local environments.
-- Building Telegram bots, integrations, and automation systems.
-- Improving my web development and software engineering skills.
-- Exploring Minecraft systems and interactive companion behavior.
+- Built several Telegram bots covering AI conversations, OSINT workflows, monitoring, database search, and automation.
+- Developed multi-page web projects, including a website with an administrative dashboard.
+- Integrated local language models into AI tools and experimented with tool-using agent workflows.
+- Built a Minecraft companion bot and explored Mineflayer-based automation.
+- Worked with Minecraft server administration and plugin configuration, and continue to expand my experience with server-side development.
+- Experimented with ESP32 and Arduino-based hardware projects.
 
-## Experience
+## Current Focus
 
-- Built and maintained several Telegram bots, including AI, OSINT, monitoring, and automation projects.
-- Developed web projects, including a multi-page website with an administrative dashboard.
-- Experimented with local language models and AI-powered workflows.
-- Worked with Minecraft server environments and plugin configuration; currently expanding my practical experience in this area.
+- Building capable, local-first AI agents and practical tool integrations.
+- Improving backend and full-stack development skills.
+- Developing useful Telegram bots and automation systems.
+- Exploring Minecraft systems, server development, and interactive gameplay mechanics.
 
 ## GitHub Activity
 
@@ -79,7 +83,7 @@ I’m especially interested in local AI, agent-based workflows, backend logic, a
 
 ## Get in Touch
 
-Interested in collaborating on **Python projects, Telegram bots, automation, local AI, or web development**.
+Open to collaborating on **Python development, Telegram bots, automation, local AI, and web applications**.
 
 <div align="center">
 
