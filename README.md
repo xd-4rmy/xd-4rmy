@@ -1,27 +1,16 @@
 <div align="center">
 
-# xD-4RMY
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090D,45:32105E,100:7A3EF0&height=190&section=header&text=xD-4RMY&fontSize=56&fontColor=EDE7FF&fontAlignY=38&desc=Developer%20%7C%20Python%20%7C%20Automation%20%7C%20AI%20Systems&descAlignY=60&descSize=16" width="100%" />
 
-**Developer · AI Systems · Automation · Local AI**
+### Building useful things, one system at a time.
 
-16-year-old builder from Iran. I develop AI agents, Telegram bots, and full-stack web applications, running a Linux-first workflow (Arch btw).
+**16-year-old developer** interested in software engineering, automation, AI-powered tools, and interactive systems.
 
-<p>
-  <a href="https://github.com/xd-4rmy/aboutme"><strong>Portfolio</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://t.me/xProtocolChannel">Telegram Channel</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/xd-4rmy-5a1a93424/">LinkedIn</a>
-</p>
+[Portfolio](https://github.com/xd-4rmy/aboutme) · [Telegram Channel](https://t.me/xProtocolChannel) · [LinkedIn](https://www.linkedin.com/in/xd-4rmy-5a1a93424/)
 
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-040607?style=for-the-badge&logo=python&logoColor=BF40FA" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-040607?style=for-the-badge&logo=typescript&logoColor=BF40FA" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-040607?style=for-the-badge&logo=nextdotjs&logoColor=E3D9FC" />
-  <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-040607?style=for-the-badge&logo=arch-linux&logoColor=4928C2" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-040607?style=for-the-badge&logo=postgresql&logoColor=E3D9FC" />
-  <img alt="Telegram" src="https://img.shields.io/badge/Telegram_API-040607?style=for-the-badge&logo=telegram&logoColor=BF40FA" />
-</p>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,linux,git,vscode&theme=dark" />
 
 </div>
 
@@ -29,52 +18,77 @@
 
 ## About
 
-I am an independent developer focused on building practical, self-hosted, and privacy-first software. My work spans from deep OS-level AI agents to production-ready RTL web platforms and automated Telegram ecosystems.
+I’m an independent developer who enjoys turning ideas into practical software. Most of my hands-on work is with **Python** and **JavaScript**, ranging from Telegram bots and automation tools to web interfaces and AI-assisted applications.
 
-I prefer understanding systems from the inside out—whether that means running local LLMs on my own hardware, developing custom automation scripts, or wiring hardware with ESP32.
+I’m especially interested in local AI, agent-based workflows, backend logic, and building tools that connect different services. I value readable code, understanding how systems work, and learning new technologies through real projects.
 
-## What I Build
+## Tech Stack
 
-| Area | Focus |
+| Category | Technologies |
 | --- | --- |
-| **AI & Agents** | Local LLM integration, fully local system-access agents, computer vision. |
-| **Bots & Automation** | High-performance Telegram bots, OSINT tools, real-time monitoring, and automation scripts. |
-| **Web Development** | Production-ready full-stack apps (Next.js, Prisma, PostgreSQL), RTL Persian interfaces, and admin dashboards. |
-| **Hardware & Robotics** | ESP32, electrical work, sensor integration, and bridging software with physical movement. |
+| **Languages** | Python, JavaScript, HTML, CSS |
+| **Runtime & APIs** | Node.js, Telegram Bot API, Telethon |
+| **Minecraft** | Mineflayer, Pathfinder |
+| **AI & Automation** | Local LLMs, LM Studio, AI integrations, automation scripts |
+| **Tools & Environment** | Git, GitHub, Linux, VS Code |
+
+<sub>These are technologies I've used in projects or practical work; I'm continuously expanding this toolkit.</sub>
 
 ## Featured Projects
 
-- **[JavidNamanBot](https://t.me/xProtocolChannel/947)** — A Telegram remembrance bot that shares respectful posts honoring those who lost their lives for their homeland, helping preserve their names and stories in collective memory.
-- **[Lain — Minecraft AI Companion](https://t.me/xProtocolChannel/948)** — A local AI companion for Minecraft Java, built with Node.js, Mineflayer, and Pathfinder. Features Persian/English AI chat, player-following and movement commands, autonomous companion behavior, and a local web dashboard powered by LM Studio.
-- **Lain (Local AI Agent)** — A fully local, system-access AI agent with deep OS integration (inspired by Claude Code & Codex). Runs entirely on-device with no cloud dependency.
-- **[Bocchi AI Bot](https://t.me/xProtocolChannel/801)** — An AI-powered Telegram bot for daily use, featuring image understanding and generation.
-- **[Nijika AI OSINT Bot](https://t.me/xProtocolChannel/890)** — An all-in-one OSINT aggregation tool that automates information gathering with AI and conversational querying.
-- **[Meowie Bot Automation](https://t.me/xProtocolChannel)** — A Python/Telethon automation tool that plays the Meowie Telegram game, handling point transfers, fishing, and street cat rescues.
-- **[MilkyChanAI](https://t.me/xProtocolChannel/889)** — A persistent, memory-equipped AI companion.
-- **[Seika Monitor Bot](https://t.me/xProtocolChannel/925)** — Real-time Telegram infrastructure monitoring for profile changes, stories, and linked channels.
-- **[Ryo Database Bot](https://t.me/xProtocolChannel/891)** — Direct database querying and search via Telegram without downloading files.
+| Project | Description |
+| --- | --- |
+| **[Lain — Minecraft AI Companion](https://t.me/xProtocolChannel/948)** | A Minecraft Java companion built with Node.js and Mineflayer, with AI chat, movement and follow behaviors, and a local dashboard connected to LM Studio. |
+| **[Lain — Local AI Agent](https://github.com/xd-4rmy)** | An ongoing local-agent project focused on connecting AI models with useful system tools and workflows. |
+| **[JavidNamanBot](https://t.me/xProtocolChannel/947)** | A Telegram bot built to share remembrance posts and preserve personal stories. |
+| **[Bocchi AI Bot](https://t.me/xProtocolChannel/801)** | An AI-powered Telegram bot with image understanding and generation features. |
+| **[Nijika AI OSINT Bot](https://t.me/xProtocolChannel/890)** | A Telegram-based information-gathering tool with AI-assisted querying. |
+| **[Meowie Bot Automation](https://t.me/xProtocolChannel)** | A Python/Telethon automation project for interacting with the Meowie Telegram game. |
+| **[MilkyChanAI](https://t.me/xProtocolChannel/889)** | A conversational AI companion with persistent memory. |
+| **[Seika Monitor Bot](https://t.me/xProtocolChannel/925)** | A Telegram monitoring bot for profile, story, and linked-channel changes. |
+| **[Ryo Database Bot](https://t.me/xProtocolChannel/891)** | A Telegram interface for searching and querying database records. |
 
-## Toolkit
+## What I'm Working On
 
-**Languages:** Python, TypeScript/JavaScript, HTML/CSS, SQL, Bash, C++/Arduino  
-**Frameworks & Tools:** Next.js, Prisma, PostgreSQL, Telethon, Git  
-**Environment:** Arch Linux, Self-hosted services, Local AI runtimes (LLMs), ESP32
+- Developing AI agents that can use tools and work with local environments.
+- Building Telegram bots, integrations, and automation systems.
+- Improving my web development and software engineering skills.
+- Exploring Minecraft systems and interactive companion behavior.
 
-## Current Focus
+## Experience
 
-- Pushing the boundaries of local, private AI agents and tool use.
-- Developing high-performance AI bots for Telegram.
-- Strengthening full-stack engineering (Next.js, Prisma, scalable backends).
-- Exploring the intersection of software and hardware (Robotics/ESP32).
+- Built and maintained several Telegram bots, including AI, OSINT, monitoring, and automation projects.
+- Developed web projects, including a multi-page website with an administrative dashboard.
+- Experimented with local language models and AI-powered workflows.
+- Worked with Minecraft server environments and plugin configuration; currently expanding my practical experience in this area.
 
-## Collaboration
-
-I am open to collaborating on projects involving **local AI, advanced Telegram bots, automation, and modern web applications**. I value clear communication, deep technical problem-solving, and building things that actually work in production.
-
----
+## GitHub Activity
 
 <div align="center">
 
-<sub>Arch Linux (btw) · Build it. Understand it. Make it yours.</sub>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=xd-4rmy&show_icons=true&hide_border=true&bg_color=09090D&title_color=BF8CFF&icon_color=9D5CFF&text_color=DED6EA&ring_color=7A3EF0" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xd-4rmy&layout=compact&hide_border=true&bg_color=09090D&title_color=BF8CFF&text_color=DED6EA" alt="Most used languages on GitHub" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=xd-4rmy&hide_border=true&background=09090D&ring=7A3EF0&fire=BF8CFF&currStreakLabel=BF8CFF&sideLabels=DED6EA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B8496" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## Get in Touch
+
+Interested in collaborating on **Python projects, Telegram bots, automation, local AI, or web development**.
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-xD--4RMY-09090D?style=for-the-badge&logo=github&logoColor=BF8CFF)](https://github.com/xd-4rmy)
+[![Telegram](https://img.shields.io/badge/Telegram-Channel-09090D?style=for-the-badge&logo=telegram&logoColor=BF8CFF)](https://t.me/xProtocolChannel)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-09090D?style=for-the-badge&logo=firefox&logoColor=BF8CFF)](https://github.com/xd-4rmy/aboutme)
+
+<br/>
+
+<sub>Linux-first workflow · Build it. Understand it. Make it yours.</sub>
 
 </div>
